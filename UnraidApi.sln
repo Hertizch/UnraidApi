@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnraidApi", "UnraidApi\UnraidApi.csproj", "{219CBF5C-C861-4BFE-851A-8E9508045E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{82C92391-FA7F-487C-A337-ACF0E0E703A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219CBF5C-C861-4BFE-851A-8E9508045E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219CBF5C-C861-4BFE-851A-8E9508045E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219CBF5C-C861-4BFE-851A-8E9508045E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219CBF5C-C861-4BFE-851A-8E9508045E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C92391-FA7F-487C-A337-ACF0E0E703A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C92391-FA7F-487C-A337-ACF0E0E703A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C92391-FA7F-487C-A337-ACF0E0E703A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C92391-FA7F-487C-A337-ACF0E0E703A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8A0881-9335-4D29-B9C5-3BF255929D8A}
+	EndGlobalSection
+EndGlobal
